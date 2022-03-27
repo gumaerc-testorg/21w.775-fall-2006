@@ -9,8 +9,8 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-ocw_type: OCWImage
 resourcetype: Image
 title: Pond
+type: OCWImage
 uid: 4c8fcf3a-d044-ab39-2efc-6d7f23d4a8e8
 ---
