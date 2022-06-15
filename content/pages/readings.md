@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required texts and films for the
+  course, and the schedule of readings and films by session.
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: 6a317ce0-fd16-7aca-d2f4-6008f4fd5fe9
 ---
 

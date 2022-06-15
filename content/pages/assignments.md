@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the essay assignments for the course.
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: 2fe6e17d-9ef5-9e8d-8350-b5e09315d484
 ---
 
@@ -30,7 +31,7 @@ The goals of this essay are:
 2.  To develop a personal voice.
 3.  To interact with relevant texts or other sources.
 
-(See the description of the grading criteria at the end of the [syllabus]({{< baseurl >}}/pages/syllabus) for more information about these goals.)
+(See the description of the grading criteria at the end of the {{% resource_link b7af9a1d-f3cd-8f50-a258-c3d7fcc83822 "syllabus" %}} for more information about these goals.)
 
 This essay should be 5 standard pages long, or contain at least 1500 words (if you are experimenting with the shape of the words on the page.)
 
