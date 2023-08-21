@@ -1,8 +1,5 @@
 ---
 content_type: page
-description: This syllabus section provides information on course goals and philosophy,
-  meeting times, required work, policies on communication, grading, attendance, and
-  the course schedule.
 draft: false
 learning_resource_types: []
 ocw_type: ''
