@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: This section provides details on the essay assignments for the course.
 learning_resource_types: []
 ocw_type: ''
 title: Assignments

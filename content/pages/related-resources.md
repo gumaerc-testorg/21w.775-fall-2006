@@ -1,8 +1,5 @@
 ---
 content_type: page
-description: This section features links to blogs kept by students and the professor
-  throughout the duration of the semester. The blog was a required component of the
-  course.
 learning_resource_types: []
 ocw_type: ''
 title: Related Resources

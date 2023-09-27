@@ -34,7 +34,9 @@
   },
   "course_title": "Writing about Nature and Environmental Issues",
   "course_description": "This course focuses on traditional nature writing and the environmentalist essay. Students will keep a Web log as a journal. Writings are drawn from the tradition of nature writing and from contemporary forms of the environmentalist essay.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.775",
   "course_image_thumbnail": {
@@ -44,6 +46,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "b92b0673-998d-4c6e-ac12-b3a66f97625a",
+  "site_uid": "49a6d6a5-1250-42dd-9c55-4a44029c9a97",
+  "site_short_id": "21w.775-fall-2006",
   "title": "Course Metadata"
 }
